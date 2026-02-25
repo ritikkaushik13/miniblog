@@ -31,7 +31,7 @@ A mini blog platform built using Django and Django REST Framework with User Auth
 - Django REST Framework
 - SQLite
 - Docker
-- Swagger (drf-yasg)
+- Swagger
 
 ---
 
